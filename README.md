@@ -22,7 +22,7 @@ An STM32-based DJ controller for real-time audio playback and effects. Designed 
 ## Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/davidxu99/STM32-DJ-Controller.git
+   git clone https://github.com/dagsion/STM32-DJ-Controller.git
    ```
 2. Open in STM32CubeIDE and flash firmware.
 3. Connect hardware components.
