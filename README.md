@@ -13,7 +13,7 @@ An STM32-based DJ controller for real-time audio playback and effects. Designed 
 
 ## Hardware & Software
 - **Microcontroller:** STM32 Nucleo F446ZE
-- **Audio Codec:** DAC
+- **Audio Codec:** RAW DAC
 - **Firmware:** STM32 HAL/CubeMX
 - **Development Tools:** STM32CubeIDE
 
