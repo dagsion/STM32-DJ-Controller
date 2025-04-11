@@ -5,7 +5,6 @@ An STM32-based DJ controller for real-time audio playback and effects. Designed 
 
 ## Features
 - **Audio Playback:** High-quality WAV file playback with low latency.
-- **Digital EQ:** Adjustable low, mid, and high frequencies.
 - **Looping & Cue Points:** Seamless looping and real-time cue control.
 - **Real-Time Effects:** Reverb, delay, and filter sweeps using DSP.
 - **User Controls:** Potentiometers, encoders, and buttons for intuitive interaction.
