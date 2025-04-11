@@ -12,11 +12,10 @@ An STM32-based DJ controller for real-time audio playback and effects. Designed 
 - **Expandable Design:** Potential for MIDI support, wireless control, and advanced UI features.
 
 ## Hardware & Software
-- **Microcontroller:** STM32 series
-- **Audio Codec:** TBD
+- **Microcontroller:** STM32 Nucleo F446ZE
+- **Audio Codec:** DAC
 - **Firmware:** STM32 HAL/CubeMX
-- **DSP Library:** CMSIS-DSP
-- **Development Tools:** STM32CubeIDE, Fusion 360/SolidWorks
+- **Development Tools:** STM32CubeIDE
 
 ## Getting Started
 1. Clone the repo:
@@ -25,11 +24,6 @@ An STM32-based DJ controller for real-time audio playback and effects. Designed 
    ```
 2. Open in STM32CubeIDE and flash firmware.
 3. Connect hardware components.
-4. Test playback and effects.
 
 ## Contributions
-PRs and feature suggestions are welcome!
-
-## Acknowledgments
-Inspired by DJ controllers and open-source audio projects.
-
+David Xu and Osiris Xiao
