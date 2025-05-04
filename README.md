@@ -1,6 +1,10 @@
 # STM32-DJ-Controller
 
 ## Overview
+
+video: (https://www.youtube.com/watch?v=qGgl6kaOK0E)
+
+![IMG_3986](https://github.com/user-attachments/assets/5103f83d-ee09-452d-bb15-227b1aa6ac76)
 An STM32-based DJ controller for real-time audio playback and effects. Designed for smooth performance with responsive controls.
 
 ## Features
