@@ -54,8 +54,8 @@ To overcome this:
 
 This allows for songs of **unlimited length**, stored on the host computer and streamed in real time.
 
-🎥 **Demo Video:**  
-[![UART DAC Streaming Demo](https://img.youtube.com/vi/2LecshdJQbs/0.jpg)]([https://www.youtube.com/watch?v=2LecshdJQbs&list=PLx5INWGhzRJpzNSY4e9aSTyx2a7EL0ueM&index=2](https://www.youtube.com/watch?v=2LecshdJQbs&list=PLx5INWGhzRJpzNSY4e9aSTyx2a7EL0ueM&index=2))
+🎥 **UART DAC Demo Video:**  
+[![UART DAC Streaming Demo](https://img.youtube.com/vi/2LecshdJQbs/0.jpg)](https://www.youtube.com/watch?v=2LecshdJQbs&list=PLx5INWGhzRJpzNSY4e9aSTyx2a7EL0ueM&index=2)
 
 ---
 
